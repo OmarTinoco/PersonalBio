@@ -1,0 +1,11 @@
+Este es un documento de texto plano que se usara para fines academicos
+
+Hola mi Nombre es Omar
+
+Tengo 21 años
+Me gusta ver series animadas
+Me encanta las peliculas de disney
+Estoy interesado en aprender sobre base de datos
+Un hobby reciente es tocar Guitarra
+
+Fin de la bitacora
