@@ -8,6 +8,19 @@ body{
 #contenedor{
     border: 2px solid goldenrod;
     margin: 0 auto;
-    padding: 2em;
+    text-align: left;
     width: 70%;
+}
+#contenido{
+    padding: 1em;
+
+}
+#cabecera{
+    text-align: left;
+    background-color: blue;  
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    padding: 1em;
+    margin: 0;
+    font-size: 2em;
 }
