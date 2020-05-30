@@ -24,3 +24,9 @@ body{
     margin: 0;
     font-size: 2em;
 }
+#footer{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
